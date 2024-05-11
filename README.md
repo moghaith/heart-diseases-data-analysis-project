@@ -19,3 +19,5 @@ The dataset used in this project is obtained from [UCI heart diseases dataset] a
 - Matplotlib
 - Seaborn
 - Scikit-learn
+##Dashboard
+[Tableau dashboard]https://public.tableau.com/app/profile/mohamed.mahmoud5734/viz/HeartDiseaseDatasetAnalysis/Dashboard1?publish=yes
